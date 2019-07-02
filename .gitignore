@@ -62,6 +62,7 @@ typings/
 
 # credentials
 credentials.json
+config.json
 
 .idea/
 .scannerwork/
