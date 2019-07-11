@@ -67,3 +67,4 @@ config.json
 .idea/
 .scannerwork/
 .vscode/
+.DS_Store
